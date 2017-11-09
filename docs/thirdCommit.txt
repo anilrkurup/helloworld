@@ -1,0 +1,6 @@
+This is a test for Git commit
+We are trying the third file commit to Git Repository
+
+
+All set.
+Go!!
